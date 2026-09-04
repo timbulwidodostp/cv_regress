@@ -1,4 +1,6 @@
-D 'logtest': Tests significance of a predictor in logistic models Use logtest With STATA 19
+D 'cv_regress': Reproduces the Leave-one-out cross-validation statistics using the shortcut for Linear models Use cv_regress With STATA 19
 D
-F logtest.ado
-F logtest.sthlp
+F cv_kfold.ado
+F cv_kfold.sthlp
+F cv_regress.ado
+F cv_regress.sthlp
